@@ -1,5 +1,5 @@
-# Mini-Rummikub-Access
-Le **Mini-Rummikub Access** est une adaptation du jeu classique Rummikub, conçue spécifiquement pour favoriser la stimulation cognitive dans un cadre thérapeutique.
+# Suites et Séries
+**Suites et Séries** est un jeu de tuiles numérique (suites et groupes de chiffres), conçue spécifiquement pour favoriser la stimulation cognitive dans un cadre thérapeutique.
 L'objectif est d'offrir un outil ludique et apaisant, favorisant :
 * **La reconnaissance visuelle** grâce à un format de tuiles agrandi et contrasté.
 * **La planification logique** en manipulant des suites et des groupes de chiffres.

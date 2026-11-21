@@ -1,7 +1,7 @@
-# Claude.md – Mini-Rummikub
+# Claude.md – Suites et Séries
 
 ## 🎯 État du projet
-**Déploiement** : `pierreg78-maker.github.io/Mini-Rummikub-Access`
+**Déploiement** : `pierreg78-maker.github.io/suites-et-series`
 
 ✅ **Fonctionnalités stables**
 - Tuiles draggables (drag-and-drop via pointer events)
@@ -21,7 +21,7 @@
 
 ### Architecture
 ```
-Mini-Rummikub/
+suites-et-series/
 ├── index.html          (DOM + styles inline)
 ├── script.js           (logique game + UI)
 ├── styles.css          (optionnel, séparé)
@@ -113,7 +113,7 @@ Contexte : [où c'est utilisé]. Code actuel : [...]"
 ```bash
 git push origin main
 # Auto-déploié vers GitHub Pages
-# Vérifier : pierreg78-maker.github.io/Mini-Rummikub-Access
+# Vérifier : pierreg78-maker.github.io/suites-et-series
 ```
 
 ---
